@@ -4,7 +4,7 @@
 
 ### 🎓 Computer Engineering Student | 🤖 AI/ML Enthusiast | 💻 Software Developer
 
-Building intelligent systems through Artificial Intelligence, Machine Learning, Data Science, and Scalable Software Engineering.
+Building intelligent systems through Artificial Intelligence, Machine Learning, and Scalable Software Engineering.
 
 </div>
 
@@ -22,12 +22,10 @@ Building intelligent systems through Artificial Intelligence, Machine Learning, 
 
 ## 🎯 Current Focus
 
+- Scalable Software Architectures
 - Multi-Agent AI Systems
 - Large Language Models (LLMs)
 - Machine Learning & Deep Learning
-- Data Science & Analytics
-- Backend Engineering
-- Scalable Software Architectures
 
 ---
 
@@ -95,7 +93,7 @@ Building intelligent systems through Artificial Intelligence, Machine Learning, 
 - AI Agents & Agent Orchestration
 - MLOps & Model Deployment
 - Distributed AI Systems
-- Cloud-Native AI Solutions
+
 
 ---
 
