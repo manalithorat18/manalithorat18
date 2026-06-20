@@ -1,18 +1,177 @@
-# 💫 About Me:
-💫 About Me:<br>Hi, I'm Manali Thorat 👋<br><br>🎓 Computer Engineering Student<br>💡 Passionate about Artificial Intelligence, Data Science, and Software Development<br>🔬 Exploring Multi-Agent AI Systems, Machine Learning<br>🚀 Building projects that combine research, problem-solving, and real-world impact<br><br>## About Me<br>- Pursuing B.Tech in Computer Engineering<br>- Strong interest in AI/ML, Data Science, and System Design<br>- Experienced in Data Structures, Algorithms, and Database Management Systems<br>- Continuously learning and building practical solutions through projects and internships<br><br>## Technical Skills<br>Languages: Python, C++, SQL, JavaScript<br><br>Core Areas:<br>- Artificial Intelligence & Machine Learning<br>- Data Structures & Algorithms<br>- Software Engineering<br>- Data Science<br>- Web Development<br><br>Tools & Technologies:<br>- HTML, CSS, JavaScript<br>- Git & GitHub<br>- MySQL<br>- Pandas, NumPy<br>- Agentic AI Frameworks<br><br>## Featured Work<br>1. Store Intelligence API<br><br>Computer Vision • Real-Time Analytics • Backend Engineering<br><br>Built an end-to-end CCTV analytics pipeline using YOLOv8, ByteTrack, FastAPI, SQLite, and Docker.<br>Processed 5 simultaneous camera feeds with unique visitor detection and zone-wise behavior tracking.<br>Developed 6 REST APIs for real-time metrics, heatmaps, anomaly detection, and customer funnel analytics.<br>Implemented batch ingestion supporting up to 500 events per request and automated testing with pytest.<br><br>Tech Stack: Python, YOLOv8, ByteTrack, FastAPI, SQLite, Docker<br><br>2. RTI Agentic Framework<br><br>Multi-Agent AI • LLM Systems • Research<br><br>Designing a multi-agent AI framework to identify anomalies in public finance and governance datasets.<br>Exploring agent collaboration, workflow orchestration, and scalable AI decision-making pipelines.<br>Focused on transparency, accountability, and intelligent data analysis using modern LLM technologies.<br><br>Tech Stack: Python, Multi-Agent AI, LLMs, Agent Workflows<br><br>3. MaaCare – Full-Stack Healthcare Platform<br><br>Full-Stack Development • Healthcare Tech<br><br>Developed a healthcare management platform with appointment scheduling, task management, and real-time communication.<br>Built secure REST APIs and backend logic for patient records and user management.<br>Designed scalable database architecture and integrated end-to-end workflows.<br><br>Tech Stack: Node.js, Express.js, MongoDB, REST APIs, JavaScript<br><br>4. Online Bookstore<br><br>Full-Stack E-Commerce<br><br>Created a responsive e-commerce platform with authentication, search, filtering, and shopping cart functionality.<br>Built secure JWT-based authentication and RESTful backend services.<br>Developed a React SPA with seamless user experience and zero page reloads.<br><br>Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT<br><br>5. Electric Vehicle Performance Prediction<br><br>Machine Learning • Predictive Analytics<br><br>Built a complete machine learning pipeline for EV performance prediction.<br>Performed preprocessing, feature engineering, model training, and evaluation.<br>Improved predictive performance through iterative experimentation and optimization.<br><br>Tech Stack: Python, Scikit-learn, Neural Networks, Pandas, NumPy<br><br>## Currently Exploring<br>- Agentic AI Systems<br>- Large Language Models (LLMs)<br>- AI Research & Evaluation<br>- Data Science & Analytics<br>- Scalable Software Systems
+# Hi there, I'm Manali Thorat 👋
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manali-thorat-423352292/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manalithorat2005@gmail.com) 
+### 🎓 Computer Engineering Student | 🤖 AI/ML Enthusiast | 💻 Software Developer
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manalithorat18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=manalithorat18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manalithorat18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Building intelligent systems through Artificial Intelligence, Machine Learning, Data Science, and Scalable Software Engineering.
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=manalithorat18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Pursuing **B.Tech in Computer Engineering**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Development**
+- 🔬 Currently exploring **Multi-Agent AI Systems, LLMs, and Agentic Workflows**
+- 💡 Interested in solving real-world problems through research-driven and scalable solutions
+- 🚀 Continuously learning, building, and experimenting with emerging technologies
+
+---
+
+## 🎯 Current Focus
+
+- Multi-Agent AI Systems
+- Large Language Models (LLMs)
+- Machine Learning & Deep Learning
+- Data Science & Analytics
+- Backend Engineering
+- Scalable Software Architectures
+
+---
+
+## 🏆 Featured Projects
+
+### 📹 Store Intelligence API
+**Computer Vision • Real-Time Analytics • Backend Engineering**
+
+- Built an end-to-end CCTV analytics pipeline using YOLOv8, ByteTrack, FastAPI, SQLite, and Docker
+- Processed 5 simultaneous camera feeds with visitor tracking and zone-wise behavior analysis
+- Developed REST APIs for analytics, heatmaps, anomaly detection, and customer funnel insights
+- Implemented batch ingestion supporting up to 500 events per request
+
+**Tech Stack:** Python, YOLOv8, ByteTrack, FastAPI, SQLite, Docker
+
+---
+
+### 🤖 RTI Agentic Framework
+**Multi-Agent AI • Research • LLM Systems**
+
+- Designing a multi-agent framework for anomaly detection in public finance datasets
+- Exploring agent orchestration, collaboration, and scalable decision-making workflows
+- Focused on transparency, governance, and intelligent analytics
+
+**Tech Stack:** Python, Multi-Agent AI, LLMs, Agent Workflows
+
+---
+
+### 🏥 MaaCare
+**Full-Stack Healthcare Management Platform**
+
+- Developed appointment scheduling and healthcare workflow management system
+- Built secure backend APIs and scalable database architecture
+- Integrated real-time communication and task management features
+
+**Tech Stack:** Node.js, Express.js, MongoDB, REST APIs
+
+---
+
+### 📚 Online Bookstore
+**Full-Stack E-Commerce Platform**
+
+- Built authentication, product management, search, filtering, and cart functionality
+- Implemented JWT-based authentication and REST APIs
+- Developed responsive frontend using React
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT
+
+---
+
+### ⚡ Electric Vehicle Performance Prediction
+**Machine Learning • Predictive Analytics**
+
+- Developed an end-to-end machine learning pipeline
+- Performed preprocessing, feature engineering, model training, and evaluation
+- Improved model performance through experimentation and optimization
+
+**Tech Stack:** Python, Scikit-Learn, Neural Networks, Pandas, NumPy
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced LLM Applications
+- AI Agents & Agent Orchestration
+- MLOps & Model Deployment
+- Distributed AI Systems
+- Cloud-Native AI Solutions
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manali-thorat-423352292/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manalithorat2005@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=manalithorat18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalithorat18&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=manalithorat18&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Manali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manalithorat18&theme=tokyo-night)](https://github.com/manalithorat18)
+
+---
+
+## 🏅 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=manalithorat18&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 💡 Areas of Interest
+
+```text
+🤖 Artificial Intelligence
+🧠 Machine Learning
+📊 Data Science & Analytics
+🔍 Computer Vision
+🧑‍💻 Software Engineering
+🌐 Full-Stack Development
+⚡ Agentic AI Systems
+📚 Research & Innovation
