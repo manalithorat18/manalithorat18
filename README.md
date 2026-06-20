@@ -156,20 +156,11 @@ Building intelligent systems through Artificial Intelligence, Machine Learning, 
 
 ---
 
-## 🏅 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=manalithorat18&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 💡 Areas of Interest
 
 ```text
 🤖 Artificial Intelligence
-🧠 Machine Learning
-📊 Data Science & Analytics
-🔍 Computer Vision
 🧑‍💻 Software Engineering
-🌐 Full-Stack Development
-⚡ Agentic AI Systems
+🧠 Machine Learning
+🔍 Computer Vision
 📚 Research & Innovation
