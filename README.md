@@ -41,7 +41,7 @@ Building intelligent systems using **Artificial Intelligence, Machine Learning, 
 # 🚀 Featured Projects
 
 
-## 📹 Store Intelligence System (https://github.com/manalithorat18/store-intelligence)
+## 📹 [Store Intelligence System](https://github.com/manalithorat18/store-intelligence)
 ### Computer Vision | Real-Time Analytics | Backend Engineering
 
 AI-powered retail analytics system extracting business insights from CCTV footage.
