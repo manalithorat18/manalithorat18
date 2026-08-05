@@ -190,7 +190,9 @@ Streamlit • Power BI • Linux
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manalithorat18&theme=tokyonight" />
+<a href="https://skyline.github.com/manalithorat18">
+<img src="https://img.shields.io/badge/View-GitHub%20Skyline-blue?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
