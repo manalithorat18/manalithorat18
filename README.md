@@ -24,8 +24,7 @@ Building intelligent systems using **Artificial Intelligence, Machine Learning, 
 
 🏅 **Purplle Tech Challenge 2026 - Round 2 Qualifier**  
 📄 Research Paper Accepted at **ESTCON 2026**  
-🏆 Best Paper Award Recipient  
-🤖 Machine Learning Intern - IBM Edunet Foundation  
+🏆 Best Paper Award Recipient    
 💡 Developed projects in **Computer Vision, Generative AI, Machine Learning, and Full-Stack Development**
 
 ---
@@ -35,9 +34,7 @@ Building intelligent systems using **Artificial Intelligence, Machine Learning, 
 - Generative AI Applications
 - Retrieval-Augmented Generation (RAG)
 - Large Language Models (LLMs)
-- Computer Vision
 - Machine Learning Engineering
-- MLOps & Model Deployment
 
 ---
 
@@ -231,5 +228,4 @@ Streamlit • Power BI • Linux
 🤖 Artificial Intelligence
 🧑‍💻 Software Engineering
 🧠 Machine Learning
-🔍 Computer Vision
 📚 Research & Innovation
