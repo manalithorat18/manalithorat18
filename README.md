@@ -188,7 +188,11 @@ Streamlit • Power BI • Linux
 
 ## 📈 Contribution Graph
 
-[![Manali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manalithorat18&theme=tokyo-night)](https://github.com/manalithorat18)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manalithorat18&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
 
