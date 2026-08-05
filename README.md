@@ -149,13 +149,12 @@ Python • C++ • Java • SQL
 
 ### 🤖 AI / Machine Learning
 Scikit-Learn • TensorFlow • PyTorch  
-Pandas • NumPy • OpenCV • FAISS • ChromaDB 
+Pandas • NumPy • OpenCV • FAISS • ChromaDB
 LangChain • Google Gemini API • HuggingFace Transformers  
 
 ### 🌐 Full Stack Development
 React.js • Node.js • Express.js  
-MongoDB • MySQL  
-REST APIs • JWT Authentication
+MongoDB • MySQL • REST APIs • JWT Authentication
 
 ### ⚙️ Tools & Platforms
 Docker • Git • GitHub • Postman  
