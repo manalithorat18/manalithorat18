@@ -173,9 +173,9 @@ Streamlit • Power BI • Linux
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manalithorat18&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manalithorat18&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalithorat18&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manalithorat18&layout=compact&theme=tokyonight"/>
 
 </div>
 
