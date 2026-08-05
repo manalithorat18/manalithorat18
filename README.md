@@ -188,13 +188,7 @@ Streamlit • Power BI • Linux
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-<a href="https://skyline.github.com/manalithorat18">
-<img src="https://img.shields.io/badge/View-GitHub%20Skyline-blue?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+[![Manali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manalithorat18&theme=tokyo-night)](https://github.com/manalithorat18)
 
 ---
 
