@@ -29,6 +29,22 @@ Building intelligent systems using **Artificial Intelligence, Machine Learning, 
 
 ---
 
+## 🚀 Featured Repositories
+
+📹 Store Intelligence System  
+AI-powered CCTV analytics using YOLOv8 + FastAPI
+
+🤖 Industrial Knowledge Intelligence  
+RAG-based document intelligence using LangChain + Gemini
+
+📊 Sales Forecasting Dashboard  
+ML-powered business intelligence dashboard
+
+🏥 MaaCare  
+Full-stack healthcare management platform
+
+---
+
 # 🎯 Current Focus
 
 - Generative AI Applications
@@ -142,22 +158,24 @@ Machine learning model for predicting electric vehicle performance.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Programming Languages
 Python • C++ • Java • JavaScript • SQL
 
-### AI / ML
-TensorFlow • Scikit-Learn • Pandas • NumPy  
-LangChain • Gemini API • HuggingFace  
+### 🤖 AI / Machine Learning
+Scikit-Learn • TensorFlow • PyTorch  
+Pandas • NumPy • OpenCV  
+LangChain • Google Gemini API  
+HuggingFace Transformers  
 FAISS • ChromaDB
 
-### Development
-React • Node.js • Express.js  
+### 🌐 Full Stack Development
+React.js • Node.js • Express.js  
 MongoDB • MySQL  
-REST APIs
+REST APIs • JWT Authentication
 
-### Tools
+### ⚙️ Tools & Platforms
 Docker • Git • GitHub • Postman  
 Streamlit • Power BI • Linux
 
@@ -167,34 +185,6 @@ Streamlit • Power BI • Linux
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manali-thorat-423352292/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manalithorat2005@gmail.com)
-
----
-
-# 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
