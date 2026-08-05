@@ -29,22 +29,6 @@ Building intelligent systems using **Artificial Intelligence, Machine Learning, 
 
 ---
 
-## 🚀 Featured Repositories
-
-📹 Store Intelligence System  
-AI-powered CCTV analytics using YOLOv8 + FastAPI
-
-🤖 Industrial Knowledge Intelligence  
-RAG-based document intelligence using LangChain + Gemini
-
-📊 Sales Forecasting Dashboard  
-ML-powered business intelligence dashboard
-
-🏥 MaaCare  
-Full-stack healthcare management platform
-
----
-
 # 🎯 Current Focus
 
 - Generative AI Applications
@@ -57,7 +41,7 @@ Full-stack healthcare management platform
 # 🚀 Featured Projects
 
 
-## 📹 Store Intelligence System
+## 📹 Store Intelligence System (https://github.com/manalithorat18/store-intelligence)
 ### Computer Vision | Real-Time Analytics | Backend Engineering
 
 AI-powered retail analytics system extracting business insights from CCTV footage.
@@ -161,14 +145,12 @@ Machine learning model for predicting electric vehicle performance.
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-Python • C++ • Java • JavaScript • SQL
+Python • C++ • Java • SQL
 
 ### 🤖 AI / Machine Learning
 Scikit-Learn • TensorFlow • PyTorch  
-Pandas • NumPy • OpenCV  
-LangChain • Google Gemini API  
-HuggingFace Transformers  
-FAISS • ChromaDB
+Pandas • NumPy • OpenCV • FAISS • ChromaDB 
+LangChain • Google Gemini API • HuggingFace Transformers  
 
 ### 🌐 Full Stack Development
 React.js • Node.js • Express.js  
