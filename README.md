@@ -57,7 +57,7 @@ AI-powered retail analytics system extracting business insights from CCTV footag
 
 ---
 
-## 🤖 Industrial Knowledge Intelligence
+## 🤖 [Industrial Knowledge Intelligence](https://github.com/manalithorat18/industrial-knowledge-intelligence)
 ### Generative AI | RAG | LLM Applications
 
 AI-powered document intelligence platform for semantic search and knowledge extraction.
@@ -72,7 +72,7 @@ AI-powered document intelligence platform for semantic search and knowledge extr
 
 ---
 
-## 📊 Sales Forecasting & Demand Intelligence Dashboard
+## 📊 [Sales Forecasting & Demand Intelligence Dashboard](https://github.com/manalithorat18/SalesForecasting)
 ### Machine Learning | Business Intelligence
 
 ML-powered analytics dashboard for sales prediction and business insights.
@@ -88,7 +88,7 @@ ML-powered analytics dashboard for sales prediction and business insights.
 
 ---
 
-## 🏥 MaaCare
+## 🏥 [MaaCare](https://github.com/manalithorat18/maacare)
 ### Full-Stack Healthcare Platform
 
 Healthcare management platform for improving patient and doctor workflows.
@@ -103,7 +103,7 @@ Healthcare management platform for improving patient and doctor workflows.
 
 ---
 
-## 📚 Online Bookstore
+## 📚 [Online Bookstore](https://github.com/manalithorat18/BookStore)
 ### MERN Stack Application
 
 Full-stack e-commerce platform with authentication and product management.
@@ -118,7 +118,7 @@ Full-stack e-commerce platform with authentication and product management.
 
 ---
 
-## ⚡ EV Performance Prediction
+## ⚡ [EV Performance Prediction](https://github.com/manalithorat18/Range-Prediction)
 ### Machine Learning | Predictive Analytics
 
 Machine learning model for predicting electric vehicle performance.
