@@ -150,7 +150,7 @@ Python • C++ • Java • SQL
 ### 🤖 AI / Machine Learning
 Scikit-Learn • TensorFlow • PyTorch  
 Pandas • NumPy • OpenCV • FAISS • ChromaDB
-LangChain • Google Gemini API • HuggingFace Transformers  
+LangChain • Google Gemini API • HuggingFace Transformers 
 
 ### 🌐 Full Stack Development
 React.js • Node.js • Express.js  
@@ -173,9 +173,9 @@ Streamlit • Power BI • Linux
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=manalithorat18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manalithorat18&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalithorat18&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalithorat18&layout=compact&theme=tokyonight"/>
 
 </div>
 
