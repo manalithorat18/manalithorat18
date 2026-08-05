@@ -148,9 +148,9 @@ Machine learning model for predicting electric vehicle performance.
 Python • C++ • Java • SQL
 
 ### 🤖 AI / Machine Learning
-Scikit-Learn • TensorFlow • PyTorch  
+Scikit-Learn • TensorFlow • PyTorch • LangChain
 Pandas • NumPy • OpenCV • FAISS • ChromaDB
-LangChain • Google Gemini API • HuggingFace Transformers 
+Google Gemini API • HuggingFace Transformers 
 
 ### 🌐 Full Stack Development
 React.js • Node.js • Express.js  
