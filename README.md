@@ -190,7 +190,7 @@ Streamlit • Power BI • Linux
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manalithorat18&theme=github-dark&area=true&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manalithorat18&theme=tokyonight"/>
 
 </div>
 
