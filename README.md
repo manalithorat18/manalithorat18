@@ -2,98 +2,167 @@
 
 <div align="center">
 
-### 🎓 Computer Engineering Student | 🤖 AI/ML Enthusiast | 💻 Software Developer
+## 🎓 Computer Engineering Student | 🤖 AI/ML Engineer | 💻 Software Developer
 
-Building intelligent systems through Artificial Intelligence, Machine Learning, and Scalable Software Engineering.
+Building intelligent systems using **Artificial Intelligence, Machine Learning, Generative AI, and Scalable Software Engineering.**
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Engineering**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Development**
-- 🔬 Currently exploring **Multi-Agent AI Systems, LLMs, and Agentic Workflows**
-- 💡 Interested in solving real-world problems through research-driven and scalable solutions
-- 🚀 Continuously learning, building, and experimenting with emerging technologies
+🎓 B.Tech Computer Engineering Student  
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Generative AI, Computer Vision, and Data Science**  
+🧠 Building intelligent applications using **LLMs, RAG systems, and Machine Learning pipelines**  
+💻 Experienced in developing **AI solutions, REST APIs, dashboards, and full-stack applications**  
+🚀 Continuously learning and building solutions for real-world problems
 
 ---
 
-## 🎯 Current Focus
+# 🏆 Highlights
 
-- Scalable Software Architectures
-- Multi-Agent AI Systems
+🏅 **Purplle Tech Challenge 2026 - Round 2 Qualifier**  
+📄 Research Paper Accepted at **ESTCON 2026**  
+🏆 Best Paper Award Recipient  
+🤖 Machine Learning Intern - IBM Edunet Foundation  
+💡 Developed projects in **Computer Vision, Generative AI, Machine Learning, and Full-Stack Development**
+
+---
+
+# 🎯 Current Focus
+
+- Generative AI Applications
+- Retrieval-Augmented Generation (RAG)
 - Large Language Models (LLMs)
-- Machine Learning & Deep Learning
+- Computer Vision
+- Machine Learning Engineering
+- MLOps & Model Deployment
 
 ---
 
-## 🏆 Featured Projects
+# 🚀 Featured Projects
 
-### 📹 Store Intelligence API
-**Computer Vision • Real-Time Analytics • Backend Engineering**
 
-- Built an end-to-end CCTV analytics pipeline using YOLOv8, ByteTrack, FastAPI, SQLite, and Docker
-- Processed 5 simultaneous camera feeds with visitor tracking and zone-wise behavior analysis
-- Developed REST APIs for analytics, heatmaps, anomaly detection, and customer funnel insights
-- Implemented batch ingestion supporting up to 500 events per request
+## 📹 Store Intelligence System
+### Computer Vision | Real-Time Analytics | Backend Engineering
 
-**Tech Stack:** Python, YOLOv8, ByteTrack, FastAPI, SQLite, Docker
+AI-powered retail analytics system extracting business insights from CCTV footage.
 
----
+**Key Features:**
+- Built CCTV analytics pipeline using YOLOv8 and ByteTrack
+- Processed multiple camera feeds for visitor tracking and zone analysis
+- Developed FastAPI REST APIs for analytics, heatmaps, conversion metrics, and anomaly detection
+- Containerized deployment using Docker
 
-### 🤖 RTI Agentic Framework
-**Multi-Agent AI • Research • LLM Systems**
-
-- Designing a multi-agent framework for anomaly detection in public finance datasets
-- Exploring agent orchestration, collaboration, and scalable decision-making workflows
-- Focused on transparency, governance, and intelligent analytics
-
-**Tech Stack:** Python, Multi-Agent AI, LLMs, Agent Workflows
+**Tech Stack:**  
+`Python` `YOLOv8` `ByteTrack` `FastAPI` `SQLite` `Docker`
 
 ---
 
-### 🏥 MaaCare
-**Full-Stack Healthcare Management Platform**
+## 🤖 Industrial Knowledge Intelligence
+### Generative AI | RAG | LLM Applications
 
-- Developed appointment scheduling and healthcare workflow management system
-- Built secure backend APIs and scalable database architecture
-- Integrated real-time communication and task management features
+AI-powered document intelligence platform for semantic search and knowledge extraction.
 
-**Tech Stack:** Node.js, Express.js, MongoDB, REST APIs
+**Key Features:**
+- Built RAG pipeline for querying multiple PDF documents
+- Implemented document preprocessing, chunking, and vector embeddings
+- Integrated LLM-based response generation using Gemini API
 
----
-
-### 📚 Online Bookstore
-**Full-Stack E-Commerce Platform**
-
-- Built authentication, product management, search, filtering, and cart functionality
-- Implemented JWT-based authentication and REST APIs
-- Developed responsive frontend using React
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT
+**Tech Stack:**  
+`Python` `LangChain` `Google Gemini` `ChromaDB` `HuggingFace Embeddings`
 
 ---
 
-### ⚡ Electric Vehicle Performance Prediction
-**Machine Learning • Predictive Analytics**
+## 📊 Sales Forecasting & Demand Intelligence Dashboard
+### Machine Learning | Business Intelligence
 
-- Developed an end-to-end machine learning pipeline
-- Performed preprocessing, feature engineering, model training, and evaluation
-- Improved model performance through experimentation and optimization
+ML-powered analytics dashboard for sales prediction and business insights.
 
-**Tech Stack:** Python, Scikit-Learn, Neural Networks, Pandas, NumPy
+**Key Features:**
+- Developed sales forecasting pipeline using historical retail data
+- Implemented product segmentation using K-Means clustering
+- Built anomaly detection using Isolation Forest
+- Created interactive dashboard using Streamlit and Plotly
+
+**Tech Stack:**  
+`Python` `Scikit-Learn` `Pandas` `Streamlit` `Plotly`
 
 ---
 
-## 🌱 Currently Learning
+## 🏥 MaaCare
+### Full-Stack Healthcare Platform
+
+Healthcare management platform for improving patient and doctor workflows.
+
+**Key Features:**
+- Developed appointment scheduling system
+- Built secure REST APIs and database architecture
+- Designed scalable full-stack application
+
+**Tech Stack:**  
+`React` `Node.js` `Express.js` `MongoDB`
+
+---
+
+## 📚 Online Bookstore
+### MERN Stack Application
+
+Full-stack e-commerce platform with authentication and product management.
+
+**Key Features:**
+- Implemented JWT-based authentication
+- Developed product search, filtering, and cart functionality
+- Built REST APIs for backend services
+
+**Tech Stack:**  
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+---
+
+## ⚡ EV Performance Prediction
+### Machine Learning | Predictive Analytics
+
+Machine learning model for predicting electric vehicle performance.
+
+**Key Features:**
+- Performed data preprocessing and feature engineering
+- Trained and evaluated ML models
+- Optimized model performance through experimentation
+
+**Tech Stack:**  
+`Python` `Scikit-Learn` `TensorFlow` `Pandas` `NumPy`
+
+---
+
+# 🌱 Currently Learning
 
 - Advanced LLM Applications
-- AI Agents & Agent Orchestration
-- MLOps & Model Deployment
-- Distributed AI Systems
+- AI Agents & Intelligent Systems
+- MLOps and Model Deployment
+- Cloud-Based AI Solutions
 
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+Python • C++ • Java • JavaScript • SQL
+
+### AI / ML
+TensorFlow • Scikit-Learn • Pandas • NumPy  
+LangChain • Gemini API • HuggingFace  
+FAISS • ChromaDB
+
+### Development
+React • Node.js • Express.js  
+MongoDB • MySQL  
+REST APIs
+
+### Tools
+Docker • Git • GitHub • Postman  
+Streamlit • Power BI • Linux
 
 ---
 
